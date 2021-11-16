@@ -22,7 +22,7 @@ public class LoginPresenterTest {
 
     private LoginCredentials loginCredentials = new LoginCredentials(
             "demo@gmail.com",
-            "12345");
+            "123456");
 
     @Mock
     private LoginRepositoryImpl loginRepository;
